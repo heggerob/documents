@@ -1,0 +1,71 @@
+PRIVACY POLICY
+Effective date: February 16, 2026
+
+Melody ("the Service") is operated by Robin Hegge.
+Contact: heggerob@gmail.com
+
+This Privacy Policy explains what information is processed when you use the Service,
+how it is used, and what choices you may have.
+
+1. Information We Process
+
+A) Account and identity information (if you sign in)
+- Email address
+- Basic profile information from identity providers
+- Authentication identifiers and session-related data
+
+B) Profile and preference information
+- Name fields you enter
+- Region/country selection
+- Display and application preferences
+
+C) Submitted content and communications
+- Text, files, metadata, and other content you submit through the Service
+- Communications and requests you send through Service channels
+
+D) Usage and technical information
+- Interaction and activity data needed to operate features
+- Diagnostic and reliability data needed for performance and security
+
+E) Local-only device data
+- Preferences and locally stored content kept on your device
+- Local data may remain on-device unless you explicitly synchronize it
+
+2. How Information Is Used
+- Provide and maintain Service functionality
+- Authenticate users and apply role-based access
+- Synchronize data and maintain consistency
+- Protect security, integrity, and abuse prevention
+- Comply with legal obligations and enforce policies
+
+3. Legal Bases (where applicable)
+Depending on your jurisdiction, processing may rely on:
+- Performance of a contract
+- Legitimate interests (for example security and operations)
+- Consent
+- Legal obligations
+
+4. Sharing
+Personal data is not sold.
+Information may be shared with service providers and infrastructure partners
+that support authentication, hosting, storage, and delivery of the Service.
+
+5. Retention
+Data is retained only as long as needed for operations, compliance, security,
+or legitimate business purposes, unless a longer period is required by law.
+
+6. Your Rights
+Depending on your location, you may request access, correction, or deletion
+of personal data. Contact: heggerob@gmail.com
+
+7. Security
+Reasonable technical and organizational safeguards are used.
+No system can guarantee absolute security.
+
+8. Children
+The Service is not directed to children under the minimum digital consent age
+in the applicable jurisdiction.
+
+9. Changes
+This Privacy Policy may be updated from time to time.
+The effective date will be updated when changes are made.
