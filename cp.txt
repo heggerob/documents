@@ -1,34 +1,48 @@
 COPYRIGHT POLICY
-Effective date: February 16, 2026
+SangBoken – Digital sangbok
+Effective date: 2026-05-31
 
-This policy describes how copyright concerns are handled in the Service.
+This policy explains how copyright is handled in SangBoken – Digital sangbok
+("the Service").
 
-1. Rights Requirement
-Only submit or publish material when you have the legal right to do so.
+1. APPLICATION COPYRIGHT
+The application code, design, user interface, branding, and original materials are:
+  Copyright (c) Robin Hegge. All rights reserved.
+These are protected under Norwegian copyright law (åndsverkloven) and international
+copyright treaties. Reproduction, distribution, or creation of derivative works without
+prior written permission is prohibited.
 
-2. Restricted or Removed Material
-Material may be hidden, restricted, or removed when copyright status is
-unclear or rights are not properly established.
+2. HYMN AND SONG TEXTS
+The Service provides access to hymns and songs. Copyright status varies:
+- Many traditional and historical hymns are in the public domain.
+- Some hymns may be under copyright held by publishers, organizations, or authors'
+  estates.
+- We make reasonable efforts to include only materials we have rights to or that are
+  in the public domain.
+- If you believe a hymn has been included in error, please contact us (see Section 4).
 
-3. Takedown Requests
-Copyright owners or authorized agents may request removal by contacting:
-heggerob@gmail.com
+3. YOUR OBLIGATION
+When submitting or publishing content through the Service, you must have the legal right
+to do so. Do not submit content that infringes the intellectual property rights of others.
 
-Please include:
-- Your name and contact details
-- Identification of the copyrighted work
-- Identification of the material to remove (for example ID, title, link, or path)
-- A good-faith statement that use is not authorized
-- A statement that the request is accurate and authorized
+4. TAKEDOWN REQUESTS
+Copyright holders or their authorized agents may request removal of infringing material
+by contacting: heggerob@gmail.com
 
-4. Repeat Infringement
-Repeated or intentional infringement may lead to enforcement actions,
-including restrictions or removal of access.
+Please include in your request:
+- Your name and contact information
+- Identification of the copyrighted work you believe is infringed
+- Identification of the specific material to be removed (title, ID, or description)
+- A good-faith statement that you believe use of the material is not authorized
+- A statement that the information in your request is accurate and that you are
+  authorized to act
 
-5. Counter Notice
-If you believe material was removed in error, contact the same address with
-sufficient details to review your claim.
+We will review and respond to valid requests within a reasonable time.
 
-APPLICATION NOTICE
-Copyright (c) Robin Hegge. All rights reserved.
-Original code, design, branding, and related materials are protected by law.
+5. COUNTER NOTICE
+If you believe material was removed in error, you may submit a counter notice to
+heggerob@gmail.com with sufficient detail to review your claim.
+
+6. REPEAT INFRINGEMENT
+Users or contributors who repeatedly infringe copyright may have their access
+restricted or removed.

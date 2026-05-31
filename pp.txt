@@ -1,71 +1,97 @@
 PRIVACY POLICY
-Effective date: February 16, 2026
-
-Melody ("the Service") is operated by Robin Hegge.
+SangBoken – Digital sangbok
+Effective date: 2026-05-31
+Operator: Robin Hegge
 Contact: heggerob@gmail.com
 
-This Privacy Policy explains what information is processed when you use the Service,
-how it is used, and what choices you may have.
+This Privacy Policy explains what personal data we process when you use SangBoken –
+Digital sangbok ("the Service"), how it is used, and your rights under applicable law
+including the EU/EEA General Data Protection Regulation (GDPR) and Norwegian personal
+data legislation (personopplysningsloven).
 
-1. Information We Process
+1. WHO WE ARE
+The Service is operated by Robin Hegge (personal data controller).
+Contact: heggerob@gmail.com
 
-A) Account and identity information (if you sign in)
-- Email address
-- Basic profile information from identity providers
-- Authentication identifiers and session-related data
+2. DATA WE PROCESS
 
-B) Profile and preference information
-- Name fields you enter
-- Region/country selection
-- Display and application preferences
+A) Authentication and identity (when you sign in)
+- Email address and basic profile from Apple or Google
+- Firebase Authentication identifiers and session data
+- Authentication provider (Apple or Google)
 
-C) Submitted content and communications
-- Text, files, metadata, and other content you submit through the Service
-- Communications and requests you send through Service channels
+B) User preferences and private content
+- Display and application settings stored on your device and optionally synchronized
+  via the Service
+- Private notes, personal song sequences, and favorites you explicitly choose to save
+- Region or country selection
 
-D) Usage and technical information
-- Interaction and activity data needed to operate features
-- Diagnostic and reliability data needed for performance and security
+C) Interaction data
+- Song likes and reactions you submit
+- Support and feedback messages you send through the Service
+
+D) Technical and diagnostic data
+- Anonymized usage and error data needed for reliability and security
+- Server access logs (IP address, timestamp, endpoint) retained for a maximum of
+  30 days for security purposes
 
 E) Local-only device data
-- Preferences and locally stored content kept on your device
-- Local data may remain on-device unless you explicitly synchronize it
+- Preferences, bookmarks, and caches stored only on your device are not accessible
+  to us unless you initiate a sync
 
-2. How Information Is Used
-- Provide and maintain Service functionality
-- Authenticate users and apply role-based access
-- Synchronize data and maintain consistency
-- Protect security, integrity, and abuse prevention
-- Comply with legal obligations and enforce policies
+3. PURPOSES AND LEGAL BASES
+We process your data to:
+- Provide, maintain, and improve the Service (contract performance / legitimate interest)
+- Authenticate users and protect account security (legitimate interest / legal obligation)
+- Synchronize your private state across your devices (contract performance)
+- Investigate abuse and enforce these policies (legitimate interest)
+- Comply with legal obligations (legal obligation)
 
-3. Legal Bases (where applicable)
-Depending on your jurisdiction, processing may rely on:
-- Performance of a contract
-- Legitimate interests (for example security and operations)
-- Consent
-- Legal obligations
+4. DATA SHARING
+We do not sell personal data.
+Information may be shared with:
+- Google Firebase / Google Cloud as a data processor (authentication, database,
+  hosting) under standard contractual clauses
+- No other third parties receive your personal data without your explicit consent,
+  except as required by law
 
-4. Sharing
-Personal data is not sold.
-Information may be shared with service providers and infrastructure partners
-that support authentication, hosting, storage, and delivery of the Service.
+5. INTERNATIONAL TRANSFERS
+Firebase services may process data in data centers outside the EEA. Such transfers are
+protected by standard contractual clauses approved by the European Commission.
 
-5. Retention
-Data is retained only as long as needed for operations, compliance, security,
-or legitimate business purposes, unless a longer period is required by law.
+6. RETENTION
+- Authentication and account data: retained while your account is active; deleted within
+  30 days of account deletion upon request
+- Private content (notes, sequences, favorites): deleted immediately upon your request
+  or account deletion
+- Server logs: maximum 30 days
+- Support messages: retained until the matter is resolved, then deleted within 90 days
 
-6. Your Rights
-Depending on your location, you may request access, correction, or deletion
-of personal data. Contact: heggerob@gmail.com
+7. YOUR RIGHTS (GDPR)
+Depending on your location, you may have the right to:
+- Access the personal data we hold about you
+- Correct inaccurate data
+- Request deletion of your data ("right to be forgotten")
+- Request restriction of processing
+- Data portability
+- Object to processing based on legitimate interests
+- Lodge a complaint with your local data protection authority
+  (in Norway: Datatilsynet, www.datatilsynet.no)
 
-7. Security
-Reasonable technical and organizational safeguards are used.
-No system can guarantee absolute security.
+To exercise your rights, contact: heggerob@gmail.com
+We will respond within 30 days.
 
-8. Children
-The Service is not directed to children under the minimum digital consent age
-in the applicable jurisdiction.
+8. SECURITY
+We use Firebase's security infrastructure, HTTPS encryption in transit, Firebase
+authentication token verification, and server-side access controls. No system can
+guarantee absolute security. In the event of a data breach affecting your rights, we
+will notify you as required by applicable law.
 
-9. Changes
-This Privacy Policy may be updated from time to time.
-The effective date will be updated when changes are made.
+9. CHILDREN
+The Service is not directed to children below the minimum digital consent age
+(15 years in Norway). We do not knowingly collect data from children. If you believe
+a child has provided data without consent, contact heggerob@gmail.com.
+
+10. CHANGES
+This Privacy Policy may be updated from time to time. The effective date above will
+be updated when changes are made. Material changes will be communicated through the app.

@@ -1,52 +1,66 @@
 TERMS OF SERVICE
-Effective date: February 16, 2026
+SangBoken – Digital sangbok
+Effective date: 2026-05-31
 
-These Terms of Service ("Terms") govern access to and use of Melody
-("the Service"). By using the Service, you agree to these Terms.
+These Terms of Service ("Terms") govern your access to and use of SangBoken – Digital
+sangbok ("the Service"), operated by Robin Hegge ("we", "us", or "our"). By using the
+Service you agree to these Terms.
 
-1. Use of the Service
-You must use the Service in compliance with applicable laws and these Terms.
+1. ELIGIBILITY
+You must be of the minimum digital consent age in your jurisdiction to use the Service
+independently, or have permission from a parent or guardian.
 
-2. Accounts
-If you sign in, you are responsible for activity under your account and for
-maintaining account security.
+2. YOUR ACCOUNT
+If you sign in via Apple or Google, you are responsible for all activity under your account.
+Keep your credentials secure and notify us promptly of any unauthorized access.
 
-3. Content and Materials
-The Service may make digital content, files, metadata, and related materials
-available. Availability may change at any time.
+3. PERMITTED USE
+You may use the Service for personal, non-commercial use only. You must not:
+- Attempt to access, modify, or disrupt systems or data belonging to others;
+- Use automated means (bots, scrapers, crawlers) to access the Service;
+- Upload, share, or transmit content that infringes intellectual property or other legal rights;
+- Attempt to circumvent security measures, rate limits, or access controls.
 
-4. User Submissions
-If you submit content or materials, you represent that you have the required
-rights or permissions. You grant the Service a non-exclusive, worldwide,
-royalty-free license to host, store, reproduce, process, and display submitted
-materials as needed to operate the Service.
+4. CONTENT AND MATERIALS
+The Service provides access to hymn texts, metadata, and related materials. Some content
+may be subject to copyright held by third parties. Availability of content may change at any
+time. We do not warrant that all content is free from copyright restrictions.
 
-5. Intellectual Property
-You must not submit, share, or use materials that infringe intellectual
-property or other legal rights.
+5. USER SUBMISSIONS
+If you submit private notes, song sequences, or other content through the Service, you retain
+ownership of that content. You grant us a limited, non-exclusive, worldwide, royalty-free
+license to store, process, and synchronize your submitted content solely to provide the
+Service to you. We do not share your private content with other users.
 
-6. Moderation and Enforcement
-The Service may review, restrict, remove, or refuse materials and may limit
-access for policy or legal violations.
+6. INTELLECTUAL PROPERTY
+The application code, design, branding, and original materials are owned by Robin Hegge
+and protected by applicable copyright law (Norwegian: åndsverkloven). You may not copy,
+distribute, or create derivative works from them without prior written permission.
 
-7. Availability and Changes
-The Service may be modified, suspended, or discontinued at any time,
-with or without notice.
+7. MODERATION
+We may restrict, suspend, or remove access to the Service for violations of these Terms,
+legal requirements, or security reasons.
 
-8. Disclaimers
-The Service is provided "as is" and "as available" to the maximum extent
-permitted by law.
+8. AVAILABILITY AND CHANGES
+The Service is provided on a best-effort basis and may be modified, suspended, or
+discontinued at any time without notice. We are not liable for any interruption or loss of access.
 
-9. Limitation of Liability
-To the maximum extent permitted by law, the Service operator is not liable for
-indirect, incidental, special, consequential, or punitive damages.
+9. DISCLAIMERS
+The Service is provided "as is" and "as available". To the maximum extent permitted by law,
+we disclaim all warranties, express or implied, including merchantability, fitness for a
+particular purpose, and non-infringement.
 
-10. Termination
-Access may be suspended or terminated for legal, security, or policy reasons.
+10. LIMITATION OF LIABILITY
+To the maximum extent permitted by applicable law, Robin Hegge is not liable for indirect,
+incidental, special, consequential, or punitive damages arising from your use of the Service.
 
-11. Changes to Terms
-These Terms may be updated. Continued use after updates means acceptance of
-revised Terms.
+11. GOVERNING LAW
+These Terms are governed by the laws of Norway. Any disputes shall be subject to the
+jurisdiction of Norwegian courts.
 
-12. Contact
+12. CHANGES TO TERMS
+We may update these Terms from time to time. The updated effective date will be reflected
+above. Continued use of the Service after changes constitutes acceptance of the revised Terms.
+
+13. CONTACT
 Questions about these Terms: heggerob@gmail.com
